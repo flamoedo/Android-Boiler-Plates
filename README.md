@@ -1,3 +1,5 @@
 # Android-Boiler-Plates
 
-Here you have many useful Android codes, that can be used with no, or few changes, in apps.
+Here you have many useful Android codes, that can be used in apps straight forward.
+No changes needed in most cases. 
+
